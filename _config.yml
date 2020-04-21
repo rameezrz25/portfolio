@@ -13,7 +13,7 @@ picture: assets/images/logo.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/resume-rameez.pdf
 
 url: https://rameezrz25.github.io/
 # your url: https://USERNAME.github.io
