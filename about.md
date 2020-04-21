@@ -14,7 +14,7 @@ layout: page
 	<li>Python</li>
 	<li>SQL</li>
 	<li>Git</li>
-	<li>MySQL - MongoDB</li>
+	<li>MySQL</li>
 </ul>
 
 <h2>Projects</h2>
